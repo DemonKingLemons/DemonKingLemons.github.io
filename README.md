@@ -11,6 +11,6 @@ Fun fact, this exists just as a
 Bunch of redirects and tests
 ```
 
-![bruhmomento.jpg](bruhmomento.jpg)
+![bruhmomento.jpg](bruhmomment.jpg)
 
 ## Lemons out
